@@ -22,6 +22,7 @@ The following **required** functionality is completed:
 Here's a walkthrough of implemented required features:
 
 <a href="https://drive.google.com/file/d/1Nm7q923a3F66iIIBd4Jz53etzpL85LJ5/view?usp=sharing">Walkthrough + psql in terminal</a>
+<br />
 <a href="https://drive.google.com/file/d/1-0AGEOlZUmJp864sr2CLjcyz-mTWlmAu/view?usp=sharing">Render Data Base Status: Available</a>
 
 <!-- Replace this with whatever GIF tool you used! -->
